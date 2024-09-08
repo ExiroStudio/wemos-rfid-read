@@ -38,7 +38,7 @@ Connect the RC522 RFID module to the Wemos D1 Mini as follows:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/wemos-rfid-read.git
+    git clone https://github.com/ExiroStudio/wemos-rfid-read.git
     ```
 
 2. Install the required libraries in the Arduino IDE:
